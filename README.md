@@ -1,6 +1,5 @@
-# BTL_IoT
-
-# Bài tập lớn môn Hệ thống nhúng thông minh IoT - 142088 - 20222
+# Bài tập lớn môn Hệ thống nhúng thông minh IoT - 142088 - 20222 
+# Teacher: TS. Phạm Văn Tiến
 # Đề tài: Thiết kế hệ thống cáp treo điều khiển hài hòa tốc độ tự động đón trả khách
 # Nhóm 2
 # Nội dung bao gồm 
@@ -13,3 +12,5 @@
 ### 2. Trần Công Trường
 ### 3. Phạm Đức Nam
 ### 4. Hoàng Vũ An
+
+### 6/2023
